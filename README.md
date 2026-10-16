@@ -4,7 +4,7 @@
 
 An emotional tutor designed for children, with the purpose of tutoring a child by answering any relevant questions, and acting out emotions, since there are fewer tools for chilrdren.
 
-![[Pasted image 20261016154655.png]]
+![Introduction Image](images/intro_image.png)
 
 
 
@@ -18,6 +18,6 @@ python main.py --input ... #TODO change this after Anna's changes
 
 ## Structure
 - main.py (The main code)
-- It follows the pipeline as follows:
-![[Pasted image 20261016154935.png]]
+- It follows the following pipeline:
 
+![Pipeline Image](images/pipeline.png)
