@@ -1,0 +1,8 @@
+python-dotenv
+faster-whisper
+hume
+openai
+numpy
+pygame
+sounddevice
+soundfile
