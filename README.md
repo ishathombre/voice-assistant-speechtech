@@ -9,15 +9,21 @@ An emotional tutor designed for children, with the purpose of tutoring a child b
 
 
 ## Setup
+
+```bash
 pip install -r requirements.txt
+```
 
-## Usage
-python main.py --input ... #TODO change this after Anna's changes
+## Quickstart
+```bash
+pip install -r requirements.txt
+python main.py
 
-
+```
+**Requirements:** Python 3.10+, Hume API key, Deepseek API key
 
 ## Structure
 - main.py (The main code)
-- It follows the following pipeline:
+- It follows the following pipeline (Speech input → ASR → LLM → emotional TTS → spoken answer):
 
 ![Pipeline Image](images/pipeline.png)
