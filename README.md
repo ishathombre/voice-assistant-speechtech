@@ -16,6 +16,7 @@ pip install -r requirements.txt
 
 ## Quickstart
 ```bash
+git clone https://github.com/ishathombre/voice-assistant-speechtech
 pip install -r requirements.txt
 cd emotion_tutor
 python main.py
